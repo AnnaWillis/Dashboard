@@ -1,0 +1,2 @@
+# Dashboard
+Organiq web dashboard.
